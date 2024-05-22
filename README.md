@@ -1,5 +1,5 @@
 # Minecraft-Infdev-20100360-with-20100415-terrain
-This is the source code for a Minecraft Infdev 20100360 mod I made myself in a couple of hours (which I believe should already tell you about the level of stability we're dealing with). As the name suggests, it brings back the terrain generation from Minecraft Infdev 20100415 by replacing the vanilla terrain generator with the one from the desired version of the game. Unfortunately, you cannot load worlds from Minecraft Infdev 20100415 with this mod as a result of me not adding support for whatever format it uses for its worlds. But other than that, the mod is playable. Please keep in mind that I'm a beginner at computer programming, so don't set your expectations high.
+This is the source code for a Minecraft Infdev 20100360 mod I made myself in a couple of minutes (which I believe should already tell you about the level of stability we're dealing with). As the name suggests, it brings back the terrain generation from Minecraft Infdev 20100415 by replacing the vanilla terrain generator with the one from the desired version of the game. Unfortunately, you cannot load worlds from Minecraft Infdev 20100415 with this mod as a result of me not adding support for whatever format it uses for its worlds. But other than that, the mod is playable. Please keep in mind that I'm a beginner at computer programming, so don't set your expectations high.
 
 If you so happen to be interested in building this mod, then here's what ya' gotta do:
 
@@ -34,6 +34,9 @@ You've successfully built my mod! You should be able to see a newly created fold
 6. Drag-&-drop the class files you just created.
 
 7. Open BetaCraft and boot up Minecraft Infdev 20100360, the one you just installed. Create a new world and see if you spot any differences in the terrain generation.
+
+
+You're allowed to modify this source code, distribute it, and even use it for a Minecraft mod of your own.
 
 
 ![Screenshot 2024-05-20 16-48-13](https://github.com/JohnCartoonist/Minecraft-Infdev-20100360-with-20100415-terrain/assets/86744606/ade3bd02-f7b0-4074-934e-7cf6eaad0489)
