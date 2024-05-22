@@ -4,9 +4,9 @@ This is the source code for a Minecraft Infdev 20100360 mod I made myself in a c
 If you so happen to be interested in building this mod, then here's what ya' gotta do:
 
 
-1 - Download Retro MCP-Java and the JDK 8 from Azul Zulu, but make sure that the version of JDK 8 you're installing comes with Java FX: https://github.com/MCPHackers/RetroMCP-Java.
+1. Download Retro MCP-Java and the JDK 8 from Azul Zulu, but make sure that the version of JDK 8 you're installing comes with Java FX: https://github.com/MCPHackers/RetroMCP-Java.
 
-2 - Open Retro MCP-Java, and the version of Minecraft you're going to select is "Infdev 20100360-2", not Infdev 20100360-1.
+2. Open Retro MCP-Java, and the version of Minecraft you're going to select is "Infdev 20100360-2", not Infdev 20100360-1.
 
 3. There is going to be a popup saying: "Are you sure you want to run setup for selected version?". You're supposed to click on yes.
 
