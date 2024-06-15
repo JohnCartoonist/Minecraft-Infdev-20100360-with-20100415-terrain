@@ -18,7 +18,7 @@ If you so happen to be interested in building this mod, then here's what ya' got
 
 
 
-You've successfully built my mod! You should be able to see a newly created folder called "build" containing a zip archive called "minecraft". That's the mod, you just have to extract it with any program of your choice (I personally use 7-Zip). They contain a handful of class files you can drag-&-drop into a Minecraft jar. Now you may feel free to play it through the BetaCraft launcher (which can be found here" https://betacraft.uk/). Now I will teach you how to install this mod through BetaCraft:
+You've successfully built my mod! You should be able to see a newly created folder called "build" containing a zip archive called "minecraft". That's the mod, you just have to extract it with any program of your choice (I personally use 7-Zip). They contain a handful of class files you can drag-&-drop into a Minecraft jar. Now you may feel free to play it through the BetaCraft launcher (which can be found here: https://betacraft.uk/). Now I will teach you how to install this mod through BetaCraft:
 
 
 1. Make sure to install Minecraft Infdev 20100360 before anything. The version you will choose to download is listed as "inf-20100360-1835 (1.139)".
