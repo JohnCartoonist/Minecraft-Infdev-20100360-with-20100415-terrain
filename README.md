@@ -31,7 +31,7 @@ You've successfully built my mod! You should be able to see a newly created fold
 
 5. Delete the "META-INF" folder found within the jar file.
 
-6. Drag-&-drop the class files you just created.
+6. Drag-&-drop the class files you just created, and close the windows for WinRAR or 7-Zip and File Explorer.
 
 7. Open BetaCraft and boot up Minecraft Infdev 20100360, the one you just installed. Create a new world and see if you spot any differences in the terrain generation.
 
