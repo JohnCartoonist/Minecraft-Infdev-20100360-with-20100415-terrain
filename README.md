@@ -12,7 +12,7 @@ If you so happen to be interested in building this mod, then here's what ya' got
 
 4. After the environment has finished setting up, click on the "Decompile" button at the upper left corner.
 
-5. After the source code has finished decompiling, close Retro MCP-Java, head over to the newly created "minecraft" folder located wherever you placed your Retro MCP-Java jar file, double click on the "src" folder, double click on the "net" folder within it, double click on the "minecraft" folder within it, double click on the "src" folder within it, and that is where you will drag-&-drop the .java files found on this repository.
+5. After the source code has finished decompiling, close Retro MCP-Java, head over to the newly created "minecraft" folder located wherever you placed your Retro MCP-Java jar file, double click on the "src" folder, double click on the "net" folder within it, double click on the "minecraft" folder within it, double click on the "src" folder within it, and that is where you will drag-&-drop the .java files found in this repository.
 
 6. Open Retro MCP-Java one last time, click on the "Recompile" button, and after that is done, you will click on the "Build" button.
 
