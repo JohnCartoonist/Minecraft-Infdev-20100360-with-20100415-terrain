@@ -36,7 +36,7 @@ You've successfully built my mod! You should be able to see a newly created fold
 7. Open BetaCraft and boot up Minecraft Infdev 20100360 (the one you just installed), create a new world, and see if you spot any differences in the terrain generation.
 
 
-You're allowed to modify this source code, distribute it, and even use it for a Minecraft mod of your own.
+You're allowed to copy this source code, distribute it, and use it for a Minecraft mod of your own.
 
 
 ![Screenshot 2024-05-20 16-48-13](https://github.com/JohnCartoonist/Minecraft-Infdev-20100360-with-20100415-terrain/assets/86744606/ade3bd02-f7b0-4074-934e-7cf6eaad0489)
