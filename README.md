@@ -23,7 +23,7 @@ You've successfully built my mod! You should be able to see a newly created fold
 
 1. Make sure to install Minecraft Infdev 20100360 before anything. The version you will choose to download is listed as "inf-20100360-1835 (1.139)".
 
-2. Right after that is done, close BetaCraft, and head over to wherever your instance directory is located. If you're using Windows, then the default directory is typically found on "Roaming", which is located in "AppData". You can quickly head over there by clicking on the search icon typically present on your search bar (although, you can alternatively click on your home button and click on the search bar found over there), typing "run" (which will bring up a program simply called "Run"), typing %appdata%, and pressing enter on your keyboard.
+2. Right after that is done, close BetaCraft, and head over to wherever your instance directory is located. If you're using Windows, then the default directory is typically found in "Roaming", which is located in "AppData". You can quickly head over there by clicking on the search icon typically present on your search bar (although, you can alternatively click on your home button and click on the search bar found over there), typing "run" (which will bring up a program simply called "Run"), typing %appdata%, and pressing enter on your keyboard.
 
 3. The instance folder should be called ".betacraft". Head over there, double click on the "versions" folder, and look for a jar file named "inf-20100415".
 
